@@ -30,5 +30,5 @@ The tutorial aims to provide them a general know-how and practical information f
 
 # References
 
-1. Pasquale Lisena, Albert Meroño-Peñuela, Tobias Kuhn and Raphaël Troncy. **[Easy Web API Development with SPARQL Transformer](http://www.eurecom.fr/en/publication/5927/download/data-publi-5927.pdf).** In *18th International Semantic Web Conference (ISWC)*, Auckland, New Zealand, October 26-30, 2019. - [bib](./swapi-tutorial/bib/lisena2019easyweb.bib)
-1. Albert Meroño-Peñuela, Rinke Hoekstra. **[`grlc` Makes GitHub Taste Like Linked Data APIs](http://ceur-ws.org/Vol-1629/paper7.pdf).** In *The Semantic Web – ESWC 2016 Satellite Events*, Heraklion, Crete, Greece, May 29 – June 2, 2016. - [bib](./swapi-tutorial/bib/merono2016grlc.bib)
+1. Pasquale Lisena, Albert Meroño-Peñuela, Tobias Kuhn and Raphaël Troncy. **[Easy Web API Development with SPARQL Transformer](http://www.eurecom.fr/en/publication/5927/download/data-publi-5927.pdf).** In *18th International Semantic Web Conference (ISWC)*, Auckland, New Zealand, October 26-30, 2019. - [bib](./bib/lisena2019easyweb.bib)
+1. Albert Meroño-Peñuela, Rinke Hoekstra. **[`grlc` Makes GitHub Taste Like Linked Data APIs](http://ceur-ws.org/Vol-1629/paper7.pdf).** In *The Semantic Web – ESWC 2016 Satellite Events*, Heraklion, Crete, Greece, May 29 – June 2, 2016. - [bib](./bib/merono2016grlc.bib)
