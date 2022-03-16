@@ -10,14 +10,14 @@ navigation_weight: 2
 
 <section markdown="1">
 
-![Pasquale Lisena](https://pbs.twimg.com/profile_images/906946245637414913/AF_Uc6Tc_400x400.jpg){: .profile-pic}
+![Pasquale Lisena](https://pbs.twimg.com/profile_images/1479474385090142213/t2LttOrX_200x200.jpg){: .profile-pic}
 ### Pasquale Lisena
 #### EURECOM, Sophia Antipolis, France
 [mail](mailto:pasquale.lisena@eurecom.fr) - [website](http://pasqlisena.github.io/)
 
 <p class="textblock" markdown="1">
 
-Pasquale Lisena is a researcher in the Data Science department at EURECOM, working on knowledge modeling and information extraction in the domain of digital humanities. He obtained in 2019 a PhD in Computer Science from Sorbonne University of Paris, with a thesis on music representation and recommendation under the supervision of Raphaël Troncy. He was part of the [DOREMUS project](http://www.doremus.org), actively contributing in realising the largest knowledge graph ever about classical music. His experiences include two tutorials in conferences of the field ([K-CAP 2017](https://doremus-anr.github.io/kcap17_tutorial/), [ESWC 2018](https://doremus-anr.github.io/eswc18_tutorial/)), assistant teaching in the Web Interaction course at EURECOM (since 2017) and lecturer in the "Aalto BootCamp 2019" at EURECOM.
+Pasquale Lisena is a researcher in the Data Science department at EURECOM, working on knowledge modeling and information extraction in the domain of digital humanities. He obtained in 2019 a PhD in Computer Science from Sorbonne University of Paris, with a thesis on music representation and recommendation under the supervision of Raphaël Troncy. He was part of several national and international project, among which [DOREMUS](http://www.doremus.org) and [Odeuropa](https://odeuropa.eu/) actively contributing in developing domain-specific knowledge graphs. His experiences include tutorials in conferences of the field (e.g. [K-CAP 2017](https://doremus-anr.github.io/kcap17_tutorial/), [ESWC 2018](https://doremus-anr.github.io/eswc18_tutorial/)), and teaching experience at EURECOM for the courses of Web Interaction and Introduction to Data Bases.
 </p>
 
 </section>
